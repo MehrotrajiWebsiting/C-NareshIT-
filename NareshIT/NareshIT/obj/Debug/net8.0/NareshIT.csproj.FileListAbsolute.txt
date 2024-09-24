@@ -1,0 +1,14 @@
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\bin\Debug\net8.0\NareshIT.exe
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\bin\Debug\net8.0\NareshIT.deps.json
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\bin\Debug\net8.0\NareshIT.runtimeconfig.json
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\bin\Debug\net8.0\NareshIT.dll
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\bin\Debug\net8.0\NareshIT.pdb
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\obj\Debug\net8.0\NareshIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\obj\Debug\net8.0\NareshIT.AssemblyInfoInputs.cache
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\obj\Debug\net8.0\NareshIT.AssemblyInfo.cs
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\obj\Debug\net8.0\NareshIT.csproj.CoreCompileInputs.cache
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\obj\Debug\net8.0\NareshIT.dll
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\obj\Debug\net8.0\refint\NareshIT.dll
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\obj\Debug\net8.0\NareshIT.pdb
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\obj\Debug\net8.0\NareshIT.genruntimeconfig.cache
+C:\Users\Unthinkable-Lap\source\repos\NareshIT\NareshIT\obj\Debug\net8.0\ref\NareshIT.dll
